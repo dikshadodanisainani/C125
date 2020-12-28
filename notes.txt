@@ -1,0 +1,10 @@
+1.pip install numpy
+2.pip install pandas
+3.pip install -U scikit-learn
+4.Pip install Image
+
+
+
+create local env and activate it first then install packages and run
+
+
